@@ -99,7 +99,11 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 - **[Hackerpreneur](https://hackerpreneur.co/)**
 
   For indie entrepreneurs & makers who live and work on their own terms. Every Friday, you’ll get hand-picked startup resources & essays exploring the future of work in the exponential age. By [Marc Eglon](https://twitter.com/MarcEglon).
+
+- **[MoneySite](https://www.moneysite.com)**
   
+  Insights and Resources for independent makers and founders.
+
 - **[Bootstrap Money](https://bootstrap.money)**
   
   Weekly roundups of stories, guides and resources to help you grow your internet business. Every Friday. Free.
@@ -269,6 +273,10 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 - **[NomadList](https://levels.io/product-hunt-hacker-news-number-one/)**
 
   Solving your own pain, representing a movement, moving fast and working hard by a serial bootstrapper.
+  
+- **[MoneySite](https://www.moneysite.com)**
+ 
+  Real Insights from real people.
 
 - **[Bugmuncher](https://www.bugmuncher.com/blog/)**
 
